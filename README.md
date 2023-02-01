@@ -19,7 +19,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [frontendmentor.io/solutions/](https://www.frontendmentor.io/solutions/stats-preview-card-0UjB6rAb6X)
-- Live Site URL: [abulhashim.github.io/Stats-preview-card](https://abulhashim.github.io/Stats-preview-card/)
+- Live Site URL: [abulhashim.github.io/Stats-preview-card](https://abulhashim.github.io/Stats-Preview-Card/)
 
 ## My process
 
