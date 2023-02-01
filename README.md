@@ -32,7 +32,7 @@ Users should be able to:
 
 ### What I learned
 
-This project helps me to get my foot on developing responsive layouts, especially using 'Mobile first approach', i learn; how to change the Images based on sepecific device dimensions using picture tag, how to change text transformation, decoration and letter-spacing, how to apply border-radius on images as well using overflow: hidden; and how to build custom buttons.
+This project helps me to learn how to add an overlay background-color to an image.
 
 ## Author
 
